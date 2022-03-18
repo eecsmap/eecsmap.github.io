@@ -52,31 +52,23 @@ EE Signals
 - 126
 - 127
 
+这本书不错[an.infinite.descent.into.pure.mathematics.pdf](https://github.com/eecsmap/eecsmap.github.io/files/8297538/an.infinite.descent.into.pure.mathematics.pdf)
+
 [Edit](https://github.com/eecsmap/eecsmap.github.io/edit/main/README.md) this website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 编辑
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Markdown** is a _lightweight_ and `easy-to-use` syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```python
+import random
+random.random()
 ```
+
+![gift](https://user-images.githubusercontent.com/71915887/158920450-11646368-462c-4a2d-9de5-887133968d6a.gif)
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
