@@ -1,81 +1,32 @@
 # EECS PRO
 
-## UCB EECS Roadmap
+## Learn EECS from MIT OCW
+[MIT OCW EECS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/) is a great source of self-learning materials.
 
-CS Core
-- 61A
-- 61B
-- 61C
-- 70
-- 170
-- 162
+## UCB EECS
+A list of EECS courses also available from UC Berkeley, check [here](https://inst.eecs.berkeley.edu/classes-eecs.html)
 
-CS System
-- 162
-- 164
-- 168
+With more details on [CS](https://www2.eecs.berkeley.edu/Courses/CS/), [EE](https://www2.eecs.berkeley.edu/Courses/EE/) and some basic [math](https://math.berkeley.edu/courses/choosing/lowerdivcourses)
 
-CS Software
-- 160
-- 161
-- 169
+If you happen to be a UCB student, you can access all course from [coursecapture](https://coursecapture.berkeley.edu/) and try exams on [tbp](https://tbp.berkeley.edu/courses/)
 
-CS Theory
-- 170
-- 172
-- 174
+## UCB Roadmap
+We are going to cover
+- CS: 61A, 61B, 61C, 70, 160, 161, 162, 164, 168, 169, 170, 172, 174, 184, 186, 188, 189
+- MATH: 1A, 1B, 53, 54
+- EE: 16A, 16B, 120, 123, 126, 127, 106A, 106B
 
-CS Application
-- 184
-- 186
-- 188
-- 189
+## MIT Roadmap
 
-MATH
-- 1A
-- 1B
-- 53
-- 54
+## Stanford Roadmap
 
-EE Core
-- 16A
-- 16B
-- 120
+----
 
-EE Robotics
-- 106A
-- 106B
+## misc
+- [an.infinite.descent.into.pure.mathematics.pdf](https://github.com/eecsmap/eecsmap.github.io/files/8297538/an.infinite.descent.into.pure.mathematics.pdf)
 
-EE Signals
-- 120
-- 123
-- 126
-- 127
+- [Edit this page](https://github.com/eecsmap/eecsmap.github.io/edit/main/README.md)
 
-这本书不错[an.infinite.descent.into.pure.mathematics.pdf](https://github.com/eecsmap/eecsmap.github.io/files/8297538/an.infinite.descent.into.pure.mathematics.pdf)
+- [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-[Edit](https://github.com/eecsmap/eecsmap.github.io/edit/main/README.md) this website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### 编辑
-
-**Markdown** is a _lightweight_ and `easy-to-use` syntax for styling your writing. It includes conventions for
-
-```python
-import random
-random.random()
-```
-
-![gift](https://user-images.githubusercontent.com/71915887/158920450-11646368-462c-4a2d-9de5-887133968d6a.gif)
-
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eecsmap/eecsmap.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [github pages basics documentation](https://docs.github.com/categories/github-pages-basics/)
