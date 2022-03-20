@@ -1,3 +1,12 @@
+# Learn Python
+
+## Reading
+
+### books
+- [Problem Solving with Algorithms and Data Structures Using Python. Release 3.0 by Miller B.N., Ranum D.L. (z-lib.org).pdf](https://github.com/eecsmap/eecsmap.github.io/files/8311951/Problem.Solving.with.Algorithms.and.Data.Structures.Using.Python.Release.3.0.by.Miller.B.N.Ranum.D.L.z-lib.org.pdf)
+
+
+
 ### Simulate Probability Problem
 
 ```python3
