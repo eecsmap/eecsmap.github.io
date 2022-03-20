@@ -1,5 +1,5 @@
 # Python
-| [edit](https://github.com/eecsmap/eecsmap.github.io/edit/main/python.md) | [home](https://eecs.pro) |
+| [edit](https://github.com/eecsmap/eecsmap.github.io/edit/main/python.md) | [home](https://eecs.pro) | [Jupyter Note](https://github.com/eecsmap/eecsmap.github.io/blob/main/python.ipynb)
 
 ## Reading
 
