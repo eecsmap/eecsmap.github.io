@@ -1,4 +1,5 @@
-# EECS PRO
+### Notes
+- [python notes](python)
 
 ## Learn EECS from MIT OCW
 [MIT OCW EECS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/) is a great source of self-learning materials.
