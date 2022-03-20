@@ -1,6 +1,5 @@
+# Python
 | [edit](https://github.com/eecsmap/eecsmap.github.io/edit/main/python.md) | [home](https://eecs.pro) |
-
-# Learn Python
 
 ## Reading
 
